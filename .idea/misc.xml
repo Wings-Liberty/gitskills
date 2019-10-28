@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectResources">
+    <resource url="http://mybatis.org/dtd/mybatis-3-config.dtd" location="D:/程序工具/jar包和js/mybatis-3.5.2/mybatis-3.5.2/org/apache/ibatis/builder/xml/mybatis-3-config.dtd" />
+  </component>
+</project>
