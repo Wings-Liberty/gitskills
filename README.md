@@ -9,9 +9,4 @@ IDEA的修改
 这里没有stash
 这里是IDEA的master分支
 网页端也对master分支进行了修改
-在IDEA上创建了tag2.0
-对2.0 进行了修改并push
-c2.1
-这里是c2.2
-这是最新的c2.3
-这里还是2.3
+那tag的内容都删了
