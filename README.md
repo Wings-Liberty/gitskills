@@ -9,3 +9,5 @@
 
 还是没用，这次在push时添加--tags
 即  git push --tags
+
+这次执行git push v4.0
