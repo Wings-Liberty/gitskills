@@ -6,3 +6,6 @@
 先commit再打tag再push，远程库没有tag
 
 这次先做修改add，打tag再commit，push
+
+还是没用，这次在push时添加--tags
+即  git push --tags
